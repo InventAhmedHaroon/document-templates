@@ -1,13 +1,12 @@
 {
     "name": "invent-ahmed-haroon/document-templates",
     "description": "Document template management package.",
-    "version": "5.3.0",
+    "version": "5.4.0",
     "license": "MIT",
     "require": {
         "php" : "^8.0",
-        "illuminate/support": "^9.0 || ^10.0",
+        "illuminate/support": "^9.0 || ^10.0 || ^11.0",
         "twig/twig": "^2.7 || ^3.4",
-        "doctrine/dbal": "^3.0",
         "barryvdh/laravel-dompdf": "^1.0 || ^2.0",
         "spatie/browsershot": "^3.0 || ^4.0"
     },
